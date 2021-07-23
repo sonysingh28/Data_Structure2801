@@ -5,7 +5,7 @@ public class MobileKeypad
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-        String phone = "456";
+        String phone = "123";
         List<String> combos = lettercom(phone);
         System.out.print("Combination is: ");
 
